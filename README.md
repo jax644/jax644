@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on building beautiful, responsive webpages and web applications for my clients in Orange County and beyond.
 
-- 👨‍💻 My featured projects are available at [jacquelinetaylor.netlify.app](jacquelinetaylor.netlify.app)
+- 👨‍💻 My featured projects are available on my <a href="https://jacquelinetaylor.netlify.app">Portfolio</a>
 
 - 📄 Learn about my experience - <a href="https://docs.google.com/document/d/1pfzEncEr8O0Jwx8YDIgrhngiYlAFeWOnAVUdpVvs48s/edit?usp=sharing">Jacqueline Taylor Software Engineer Resume 2024</a>
 
